@@ -1,0 +1,12 @@
+PASTA COM PEDIDOS PENDENTES: "../../Solicitação de Ferramentas/Pedido/"
+PASTA COM PEDIDOS PENDENTES: "../app-preset-solicitante/requests/"
+PASTA COM PEDIDOS PENDENTES: "../app-preset-solicitante2/requests/"
+
+
+PASTA COM PEDIDOS CONCLUIDOS: "../../Solicitação de Ferramentas/Concluido/"
+
+
+A PARTIR DO ElectronApp/PROJECT
+
+
+'../setupJSON/setup.json'
